@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6v0041/v1
+canonical_location: https://kanripo.org/bkk/KR6v0041/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說相好經
+  identifiers:
+    alt_id:
+    - W03n0031d
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW03/ZW03n0031d.xml
+    old_id: ZW03n0031d
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0041_000.yaml, hash: 'sha256:94c40e30bff136a97a8d39c72446420dff1b99e9a8c48f397ff746c2cf5124fa'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0041_000.markers.yaml, hash: 'sha256:c49f519e85187de66c154a07775974eb68fe64cb9580b93faad7f43ad42f644e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0041_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 錄文四
+  type: mulu
+  level: 1
+hash: sha256:d5127f79238e1bd52cdc237aaf1553a8a028b53e75f64c26413ac4e810f554de
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: ZW
