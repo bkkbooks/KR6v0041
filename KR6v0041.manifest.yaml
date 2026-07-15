@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0041/v1
 canonical_location: https://kanripo.org/bkk/KR6v0041/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說相好經
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0041_000.yaml, hash: 'sha256:e63c26baf98a2f1081f29b7452f6cc535e31b3ae98bc2691a4760e8a130b7945'}
+  - {seq: 0, filename: KR6v0041_000.yaml, hash: 'sha256:c701d2d5b2dbad091b7c9778d16d026a22934562c83ad8f951e2a838e8e9868f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0041_000.markers.yaml, hash: 'sha256:3990c9c0c9dd733d97fb56ba1c971e87690b389089e1e3a8f7ee3999965ca088'}
+  - {seq: 0, role: markers, filename: assets/KR6v0041_000.markers.yaml, hash: 'sha256:53dd7452628adc4d035c8c688368443f9cf7dbde96b9086e40e4ac786e434cb4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -30,6 +30,9 @@ table_of_contents:
   label: 錄文四
   type: mulu
   level: 1
-hash: sha256:2a1c62b86d9586137f7edaa56378cfacb6e8ed41bf5d1fbbf675efb4a1b58950
+hash: sha256:12fcd2c564f6fcebd0f8e6e045d3b5d82b5b6ac9726b46877e4f578518b54fee
 editions:
 - short: ZW
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
