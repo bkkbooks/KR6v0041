@@ -19,18 +19,18 @@ metadata:
     short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0041_000-ZW.yaml, hash: 'sha256:e63c26baf98a2f1081f29b7452f6cc535e31b3ae98bc2691a4760e8a130b7945'}
+  - {seq: 0, filename: KR6v0041_000-ZW.yaml, hash: 'sha256:9b6575a3d919e6968c4c3e39319db677277706c93b74d182683ba372e1e563a2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0041_000-ZW.markers.yaml, hash: 'sha256:4866d73a35bdb6e239c75806324f39baac0b8707f30e11efdf0572edb88331a6'}
+  - {seq: 0, role: markers, filename: assets/KR6v0041_000-ZW.markers.yaml, hash: 'sha256:2eae884ab4a99d33bb67ddba630393b53c3f39b1cff63033eb1511810ce7b15f'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0041_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 錄文四
   type: mulu
   level: 1
-hash: sha256:e181cd78caee900733d5c84769ce24cbe0bb91f06dfe1786356740c3fd535ac7
+hash: sha256:94a85156500f723f788df77c598c9b1d6fa46e1f866fb191b42306b2453b8d2c
